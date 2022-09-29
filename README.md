@@ -25,7 +25,7 @@ Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desar
      </a>
      </a> &nbsp;&nbsp;
     <a href="https://paypal.me/caaarloos04?country.x=ES&locale.x=es_ES" target="_blank">
-        <img loading="lazy" src="https://w1.pngwing.com/pngs/138/644/png-transparent-paypal-logo-text-line-blue-thumbnail.png" 
+        <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/174/174861.png" 
     height="50"> 
      </a>
 </p>
