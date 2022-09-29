@@ -21,7 +21,12 @@ Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desar
     </a> &nbsp;&nbsp;
     <a href="https://discordapp.com/users/Caaarloos#4088" target="_blank">
         <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
-    height="50"> &nbsp;&nbsp;
+    height="50"> 
+     </a>
+     </a> &nbsp;&nbsp;
+    <a href="https://paypal.me/caaarloos04?country.x=ES&locale.x=es_ES" target="_blank">
+        <img loading="lazy" src="https://img1.freepng.es/20180406/cpw/kisspng-paypal-computer-icons-logo-paypal-5ac737e8df0e72.9482777915230054169137.jpg" 
+    height="50"> 
      </a>
 </p>
 Este es mi repositorio personal, úsalo como quieras. Aquí iré subiendo lo que vaya haciendo y aprendiendo.
