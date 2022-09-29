@@ -1,7 +1,5 @@
 <p align="center">
-   <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="./images/perfil.jpg" alt="Logo" 
-      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+  
 Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱. 
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
