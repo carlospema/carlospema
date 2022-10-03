@@ -29,4 +29,4 @@ Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desar
     height="50"> 
      </a>
 </p>
-Este es mi repositorio personal, úsalo como quieras. Aquí iré subiendo lo que vaya haciendo y aprendiendo.
+Este es mi repositorio personal. Aquí iré subiendo lo que vaya haciendo y aprendiendo.
