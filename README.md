@@ -1,6 +1,6 @@
 <p align="center">
   
-Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles desde el servidor ⚙️ hasta el cliente 📱. 
+Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
   Aquí tienes mis metodos de contacto por si puedo ayudarte en algo💬.
