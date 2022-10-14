@@ -1,5 +1,6 @@
 <p align="center">
-  
+   <img loading="lazy" src="https://myoctocat.com/build-your-octocat/" 
+    height="50">
 Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
