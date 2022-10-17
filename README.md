@@ -51,3 +51,17 @@ Actualmente aprendiendo programación enseñada por [Jose Luis](https://github.c
      </a>
 </p>
 
+<h2 align="center">⚡ Tecnologías que actualmente estoy aprendiendo</h2>
+<p align="center">
+
+
+</p>
+
+<p align="center">
+  <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
+  height="45">
+  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+  height="45">
+ 
+</p>
+
