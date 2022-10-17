@@ -13,6 +13,7 @@
 
 # <img src="https://github.com/carlospema/carlospema/blob/a43bd77d26a3986398bc1b811a9a6d5539136248/imagenes/octocat-1665740105871.png" width=25% align=right />  Hola, soy Carlos Pérez Martínez
 Soy **Estudiante de Desarollo de aplicaciones multiplataformas** en el IES Luis Vives en leganés
+
 Soy Tecnico en sistemas microinformaticos y redes y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
 
 Hasta ahora he estado trabajando en talleres de reparación de dispositivos e instalando climatización, pero mi objetivo es demasiado ambicioso como para dedicar mi vida a estos trabajos.
