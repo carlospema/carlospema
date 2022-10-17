@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://carlospema.github.io/" target="_blank">
-    <img loading="lazy" style="border-radius: 1rem;" 
+    <img loading="lazy" style="border-radius: 0.25rem;" 
       src="https://github.com/carlospema/carlospema/blob/a43bd77d26a3986398bc1b811a9a6d5539136248/imagenes/banner.png" alt="Logo" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
