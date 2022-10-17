@@ -13,7 +13,13 @@
 
 # <img src="https://github.com/carlospema/carlospema/blob/a43bd77d26a3986398bc1b811a9a6d5539136248/imagenes/octocat-1665740105871.png" width=25% align=right />  Hola, soy Carlos Pérez Martínez
 
-Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
+Soy Tecnico en sistemas microinformaticos y redes y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
+
+Hasta ahora he estado trabajando en talleres de reparación de dispositivos e instalando climatización, pero mi objetivo es demasiado ambicioso como para dedicar mi vida a estos trabajos.
+
+Actualmente aprendiendo programación enseñada por [Jose Luis](https://github.com/joseluisgs) 
+
+
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
   Aquí tienes mis metodos de contacto por si puedo ayudarte en algo💬.
