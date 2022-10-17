@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://carlospema.github.io/" target="_blank">
-    <img loading="lazy" style"max-width; max-height" 
+    <img loading="lazy" margin;8 
       src="https://github.com/carlospema/carlospema/blob/e2b83cb5321bdf1ca5b7d546e49ad5f0121972a3/imagenes/www.carlospema.github.io.png" alt="Logo" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
+  figure { display: table;  margin-bottom:10px;    }
 </p>
 
 <p align="center">
