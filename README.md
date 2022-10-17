@@ -1,5 +1,19 @@
 <p align="center">
-   
+<p align="center">
+  <a href="https://carlospema.github.io/" target="_blank">
+    <img loading="lazy" style="border-radius: 0.25rem;" 
+      src="https://github.com/carlospema/carlospema/blob/main/Imagenes/banner.png" alt="Logo" 
+      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/carlospema?style=social" alt="carlospema-github" />
+  <img src="https://img.shields.io/twitter/follow/Caaarloos__04?style=social" alt="carlospema-twitter" />
+</p>
+
+# <img src="https://github.com/carlospema/carlospema/blob/main/Imagenes/octocat-1665740105871.png" width=25% align=right />  Hola, soy Carlos Pérez Martínez
+//a partir de aqui me lo quedo
 Soy Tecnico en Sistemas Microinformaticos y estoy interesado en aprender a desarrollar aplicaciones multiplataforma, web y móviles⌨️🖱️. 
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
