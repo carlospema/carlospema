@@ -21,7 +21,7 @@ Hasta ahora he estado trabajando en talleres de reparación de dispositivos e in
 
 Actualmente aprendiendo programación enseñada por [Jose Luis](https://github.com/joseluisgs) 
 
-> “"La función de un buen software es hacer que lo complejo aparente ser simple”. Grady Booch
+> "¡No me importa si funciona en tu máquina! ¡No estamos vendiendo tu máquina!" -- Vidiu Platon
 
  <h2 align="center">📫 Contacto</h2>
 <p align="center">
