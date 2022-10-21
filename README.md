@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carlospema&label=Profile%20views&color=42b983&style=flat" alt="carlospema-github" />
   <img src="https://img.shields.io/github/followers/carlospema?style=social" alt="carlospema-github" />
   <img src="https://img.shields.io/twitter/follow/Caaarloos__04?style=social" alt="carlospema-twitter" />
 </p>
