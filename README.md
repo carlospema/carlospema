@@ -60,10 +60,13 @@ Actualmente aprendiendo programación enseñada por [Jose Luis](https://github.c
 </p>
 
 <p align="center">
-  <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
+  <img loading="lazy" tittle="Kotlin" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
   height="45">
-  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
+  <img loading="lazy" tittle="IntellIJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
   height="45">
- 
+ <img loading="lazy" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" height="45">
+<img loading="lazy" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="45">
+<img loading="lazy" title="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="45">
+<img loading="lazy" title="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45">
 </p>
 
